@@ -5,7 +5,7 @@ import NavigationBar from './NavigationBar'
 const AddBooking = () => {
 
     const[input, changeInput]=useState({
-         BookingID: "",
+        BookingID: "",
         OwnerName: "",
         Email: "",
         Phone: "",
